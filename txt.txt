@@ -1,0 +1,7 @@
+USERNAME: postgres
+PASSWORD: postgrespassword
+DATABASE: fibvalues
+
+clave acceso usuario: AKIASQFUEJPMAQ7LFFUM
+contraseña: E4kmd5XwPX7HmTZh4le5ZjZwxLmIyyRHTmJkyb1T
+
