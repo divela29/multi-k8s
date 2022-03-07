@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Calculadora Fib Version 2 - Kubernetes
+            Calculadora Fib Version KUBERNETES!!
           </a>
           <Link to="/">Inicio</Link>
           <Link to="/otherpage">Otra Página</Link>
